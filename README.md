@@ -4,6 +4,7 @@ Analyzing sales from popular video games  using python
 Download the Dataset here on  [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
 ## Distributions of Genre
+There are 12 different genres shown here
 
 ![genre](charts/genre_plot.png)
 
